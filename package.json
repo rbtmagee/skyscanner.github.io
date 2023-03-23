@@ -6,7 +6,7 @@
     "bpk-component-breakpoint": "^2.0.117",
     "bpk-component-flare": "^1.0.118",
     "bpk-component-text": "^3.1.50",
-    "bpk-mixins": "^20.1.31",
+    "bpk-mixins": "^20.2.7",
     "bpk-stylesheets": "^6.0.81",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
