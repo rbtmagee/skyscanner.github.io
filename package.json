@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bpk-component-breakpoint": "^2.0.117",
-    "bpk-component-flare": "^1.0.118",
-    "bpk-component-text": "^3.1.50",
+    "bpk-component-breakpoint": "^3.1.3",
+    "bpk-component-flare": "^2.1.4",
+    "bpk-component-text": "^6.1.4",
     "bpk-mixins": "^20.1.31",
     "bpk-stylesheets": "^6.0.81",
     "react": "^16.13.1",
